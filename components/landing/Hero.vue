@@ -12,10 +12,10 @@
         <img src="/google.svg" width="280px" alt="google" />
       </div>
       <div class="mt-6 hidden md:flex flex-col sm:flex-row gap-3">
-        <a :href="wsLink" @click="orderStore.toggleOpen()"
+        <button @click="orderStore.toggleOpen()"
           class="border rounded text-gray-950 p-[10px] px-[16px] font-bold text-center font-[Nunito] mt-[20px] bg-silver cursor-pointer">
           Рассчитать стоимость
-        </a>
+        </button>
         <a :href="telLink"
           class="px-[16px] border rounded text-slate-200 py-[10px] text-center font-[Nunito] mt-[20px] cursor-pointer">
           Позвонить
