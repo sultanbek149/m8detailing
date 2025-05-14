@@ -12,7 +12,9 @@
     "deploy": "gh-pages -d .output/public"
   },
   "dependencies": {
+    "@ant-design-vue/nuxt": "^1.4.6",
     "@nuxtjs/robots": "^3.0.0",
+    "ant-design-vue": "^4.2.6",
     "maska": "^2.1.11",
     "nuxt": "3.14.1592",
     "nuxt3-meta-pixel": "^1.0.9",

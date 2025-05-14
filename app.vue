@@ -8,10 +8,10 @@
 </template>
 
 <script setup>
-// import { theme } from 'ant-design-vue';
+import { theme } from 'ant-design-vue';
 
-// const th = {
-// algorithm: theme.darkAlgorithm,
+const th = {
+algorithm: theme.darkAlgorithm,
 
 //   // components: {
 //   //   Button: {
@@ -20,5 +20,5 @@
 //   //     colorBgContainer: '#4b34a7',
 //   //   },
 //   // },
-// };
+};
 </script>

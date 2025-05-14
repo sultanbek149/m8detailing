@@ -33,7 +33,7 @@ export default defineNuxtConfig({
     '@vueuse/nuxt',
     '@zadigetvoltaire/nuxt-gtm',
     '@pinia/nuxt',
-    // '@ant-design-vue/nuxt',
+    '@ant-design-vue/nuxt',
     '@nuxtjs/sitemap',
     '@nuxtjs/robots',
     'nuxt-icon',
