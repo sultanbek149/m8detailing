@@ -1,0 +1,20 @@
+/*@tailwind base;*/
+/*@layer base {*/
+/*    button,*/
+/*    [type='button'],*/
+/*    [type='reset'],*/
+/*    [type='submit'] {*/
+/*        -webkit-appearance: button;*/
+/*        background-image: none;*/
+/*    }*/
+/*}*/
+@tailwind components;
+@tailwind utilities;
+body {
+  background: #09090f;
+  font-family: 'Montserrat';
+}
+
+.bg-silver {
+    background: linear-gradient(90deg, #a6a6a6, #fffcf3 25%, #fff 50%, #f1f0ec 66.92%, #d0d2d8 75%, #f5f8ff 79.48%, #aaa9a7);
+}
