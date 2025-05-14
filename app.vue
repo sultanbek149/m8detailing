@@ -8,17 +8,17 @@
 </template>
 
 <script setup>
-import { theme } from 'ant-design-vue';
+// import { theme } from 'ant-design-vue';
 
-const th = {
-  algorithm: theme.darkAlgorithm,
+// const th = {
+// algorithm: theme.darkAlgorithm,
 
-  // components: {
-  //   Button: {
-  //     colorPrimary: '#1fd678',
-  //     colorBgElevated: '#4b34a7',
-  //     colorBgContainer: '#4b34a7',
-  //   },
-  // },
-};
+//   // components: {
+//   //   Button: {
+//   //     colorPrimary: '#1fd678',
+//   //     colorBgElevated: '#4b34a7',
+//   //     colorBgContainer: '#4b34a7',
+//   //   },
+//   // },
+// };
 </script>
